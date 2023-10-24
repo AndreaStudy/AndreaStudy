@@ -62,8 +62,8 @@
     <a href="https://profile-sooty.vercel.app/">
         <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
     </a>
-    <a href="mailto:wjdgnstjr45@naver.com">
-        <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+    <a href="https://open.kakao.com/o/sAjA2XDf">
+        <img src="https://img.shields.io/badge/Kakao-F7DF1E?style=flat&logo=Gmail&logoColor=white" />
     </a>
     <br>
 </div>
