@@ -44,7 +44,7 @@
     <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-    <a href="https://profile-sooty.vercel.app/">
+    <a href="https://www.notion.so/0cfa356b1f924bb7a5950312d9b9ae08">
         <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
     </a>
     <a href="https://open.kakao.com/o/sAjA2XDf">
